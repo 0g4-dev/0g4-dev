@@ -1,5 +1,5 @@
 ### About Me:
-I'm infrastructure engineer from Japan.
+I'm an infrastructure engineer from Japan.
 
 #### Infrastructure:
 ![](https://skillicons.dev/icons?i=aws,azure,linux,terraform,ansible,githubactions,jenkins,mysql,docker) and something others...
